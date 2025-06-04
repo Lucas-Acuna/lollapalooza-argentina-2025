@@ -36,3 +36,15 @@ La performance de *Benson Boone* se destacó como una de las más comentadas del
 
 📬 Contacto: lucasdeacuna@gmail.com  
 [Conectá conmigo en LinkedIn](https://www.linkedin.com/in/lucas-acuna/)
+
+### 📌 Conclusiones del análisis
+
+- *Lollapalooza Argentina 2025 rompió récords*: fue la edición con mayor convocatoria de público en la historia del festival en el país.
+
+- El *sábado fue el día más fuerte*, concentrando la mayor cantidad de público, seguido por el viernes. Esto refleja una estrategia de programación acertada para atraer a las masas durante el fin de semana.
+
+- El *género pop se consolidó como el más convocante, destacando especialmente las performances de **Olivia Rodrigo* y *Benson Boone*, quienes fueron los artistas más comentados del festival por su conexión con el público y su impacto emocional.
+
+- El análisis muestra que existe una clara *relación entre el día del evento, el género musical predominante y la cantidad de público*, lo cual puede ser útil para futuras ediciones a la hora de planificar la grilla.
+
+- Desde una mirada de analítica de datos, este tipo de eventos culturales son una excelente fuente de insights sobre *comportamiento del público, preferencias musicales y tendencias masivas*.
